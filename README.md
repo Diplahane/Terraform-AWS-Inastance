@@ -1,4 +1,3 @@
-# Terraform-AWS-Inastance
 # AWS Terraform Instance Setup
 
 This project provides Terraform code to create an AWS EC2 instance. The code defines an AWS provider configuration, sets up an EC2 instance with a specific AMI, instance type, and adds a "ubuntu" tag.
